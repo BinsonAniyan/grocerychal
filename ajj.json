@@ -1,0 +1,94 @@
+{
+    "items":[
+        {
+          "serialNumber":1,
+          "name":"Rice",
+          "quantity":5,
+          "unit":"Kg",
+          "Department":"Cereals",
+          "Notes":"Basmati Rice",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":2,
+          "name":"Wheat",
+          "quantity":5,
+          "unit":"Kg",
+          "Department":"Cereals",
+          "Notes":"Ashirvad Atta",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":3,
+          "name":"Tomato",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Fresh Vegitables",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":4,
+          "name":"Brinjal",
+          "quantity":500,
+          "unit":"g",
+          "Department":"Vegitables",
+          "Notes":"Fresh Vegitables",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":5,
+          "name":"Green Chilly",
+          "quantity":500,
+          "unit":"g",
+          "Department":"Vegitables",
+          "Notes":"Fresh Vegitables",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":6,
+          "name":"Butter",
+          "quantity":50,
+          "unit":"gm",
+          "Department":"Dairy",
+          "Notes":"Amul",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":7,
+          "name":"Sugar",
+          "quantity":2,
+          "unit":"kg",
+          "Department":"General",
+          "Notes":"Packed",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":8,
+          "name":"Washing Liquid",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Cleansers",
+          "Notes":"Sunlight",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+          "serialNumber":9,
+          "name":"Garam Masala",
+          "quantity":100,
+          "unit":"gm",
+          "Department":"Spices",
+          "Notes":"packed",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":10,
+          "name":"Apple",
+          "quantity":2,
+          "unit":"kg",
+          "Department":"Fruits",
+          "Notes":"Red Apple",
+          "Bought":"<input type='checkbox'>"
+        }
+    ]
+}

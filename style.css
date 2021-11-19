@@ -1,0 +1,122 @@
+body{
+    padding:0%;
+    margin: 0%;
+    background-image: url("grr.jpg");
+    background-attachment: fixed;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+h1:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    color: coral;
+    transition-duration: .5s;
+}
+
+table tr{
+    height: 100px;
+    font-size: larger;
+    text-align: center;
+    
+}
+th {
+    padding-top: 40px!important;
+   color: black;
+}
+td {
+    padding-top: 40px!important;
+   color: rgb(42, 90, 67);
+}
+table,th,td{
+    
+   border-width: 0.1px;
+   border-color: rgb(123, 139, 30);
+   border-style: outset;
+   font-family: cursive ;
+   font-weight: bold;
+   text-decoration: none;
+   
+}
+
+input:checked + table td{
+    text-decoration:line-through!important;
+}
+.addBtn {
+    padding: 2px;
+    width: 10%;
+    background: #38ee66ed!important;
+    color: rgb(255, 255, 255)!important;
+    text-align: center;
+
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    
+    
+  }
+  .addBtn:hover {
+    border: white 2px solid ;
+
+    box-shadow: 2px 2px 8px 10px #888888;
+  }
+  .remBtn {
+    padding: 2px;
+    width: 30%!important;
+    height: 45px;
+    background: #f35151;
+    color: rgb(255, 255, 255);
+    border: #f35151 solid;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 38%;
+    transition: 0.3s;
+    border-radius: 5px;
+    display: inline;
+  }
+  .remBtn:hover {
+    border: white 2px solid ;
+    
+    box-shadow: 2px 2px 8px 10px #e47712;
+  }
+  #addd{
+    margin-left: 38%;
+    text-align: center;
+    background: #44f05b;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    width: 30%!important;
+    height: 45px;
+    border: #44f05b solid;
+    transition: 0.3s;
+    border-radius: 5px;
+  }
+  #addd:hover{
+    border: white 2px solid ;
+    
+    box-shadow: 2px 2px 8px 10px #97eb5fab;
+  }
+  .adds{
+      
+      margin-left: 20%;
+  }
+  .adds input{
+      width: 90%;
+      border-radius: 5px;
+      margin:1%;
+      text-align: center;
+      background-color: rgba(255, 255, 255, 0.664);
+      color: rgb(13, 14, 13);
+      height: 5rem;
+  }
+  .adds input:hover{
+    border: white 2px solid ;
+
+    box-shadow: 2px 2px 8px 10px #12e48c98;
+  }
+  #offcanvasRight{
+    background-color: rgba(0, 255, 149, 0.377);
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+  }
